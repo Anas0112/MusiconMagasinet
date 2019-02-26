@@ -2,7 +2,8 @@
 ## Overvejelser
 
 Jeg valgte at anvende Microsoft Excel til at skabe mit Gantt projekt.<br>
-Jeg støtte hurtigt på problemer med excel. Programmet er ikke brugervenligt, så det krævet en del tid og hjælp til de mindste ting.<br>
+Jeg støtte hurtigt på problemer med excel.<br>
+Programmet er ikke brugervenligt, så det krævet en del tid og hjælp til de mindste ting.<br>
 Derudover fandt jeg andre programmer som specifikt var skabt til Gantt.<br>
 I fremtiden vil jeg prøve nogle af de redskaber til et Gantt Projekt. 
 
