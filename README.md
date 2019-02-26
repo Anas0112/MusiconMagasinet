@@ -11,4 +11,4 @@ I fremtiden vil jeg prøve nogle af de redskaber til et Gantt Projekt.
 
 Ved planlægningsprocessen blev det hurtigt indlysende at Kjeld manglet de nødvendige færdigheder til at bidrage effektivt.<br>
 Da udfordringen med Kjeld blev opdaget i planlægningsprocssen, gav det os heldigvis muligheden for at kunne takle problemet.<br>
-Vi kunne i givet fald erstatte Kjeld med en designer med kode færdigheder.
+Havde jeg muligheden for at erstatte Kjeld med en designer med kode færdigheder, havde jeg klart valgt muligheden.
